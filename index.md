@@ -15,8 +15,13 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+# Kyaw Khine Linn's First CS 193 Homework
+
+Things I like about CS 193
+
+- provides tools to help us not only in college but also in our career
+- course description was thorough and precise
+- class only meets once a week
 
 1. Numbered
 2. List
